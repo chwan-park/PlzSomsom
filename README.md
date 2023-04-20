@@ -8,7 +8,7 @@
 
 
 *솜솜아부탁해 url
-http://localhost:9785/plzsom/user/loginForm.jsp
+http://localhost:8080/plzsom/user/loginForm.jsp
 
 
 기능은 다음 아래와 같이 나눌 수 있다.

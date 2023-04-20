@@ -7,6 +7,10 @@
 주 언어는 java로 jsp, css, javascript 등을 사용하였고, eclipse와 git-hub를 사용해 개발하였다. 데이터베이스는 oracle을 사용하였다.
 
 
+*솜솜아부탁해 url
+http://localhost:9785/plzsom/user/loginForm.jsp
+
+
 기능은 다음 아래와 같이 나눌 수 있다.
 
 *회원가입
